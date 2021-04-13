@@ -1,0 +1,28 @@
+{
+  "addLanguageNote": true,
+  "Profiles": ["all"],
+  "AutoCssJsGeneration": true,
+  "FontSize": 75,
+  "LanguageGendersMFN": ["#005CE6", "#E60000", "gray"],
+  "ActiveFields": [
+    "no-highlighting;all;Migaku German;Reading;Expression;front",
+    "gender-highlighting;all;Migaku German;Reading;Expression;back",
+    "gender-highlighting;all;Migaku German;Reading;Meaning;back",
+    "no-highlighting;all;Migaku German Sentence;Standard;Sentence;front",
+    "gender-highlighting;all;Migaku German Sentence;Standard;Sentence;back",
+    "gender-highlighting;all;Migaku German Sentence;Standard;Target Word;back",
+    "gender-highlighting;all;Migaku German Sentence;Standard;Definitions;back",
+    "no-highlighting;all;Migaku German Vocabulary;Standard;Target Word;front",
+    "gender-highlighting;all;Migaku German Vocabulary;Standard;Target Word;back",
+    "gender-highlighting;all;Migaku German Vocabulary;Standard;Definitions;back",
+    "gender-highlighting;all;Migaku German Vocabulary;Standard;Sentence;back",
+    "gender-highlighting;all;Migaku German Audio Vocabulary;Standard;Target Word;back",
+    "gender-highlighting;all;Migaku German Audio Vocabulary;Standard;Definitions;back",
+    "gender-highlighting;all;Migaku German Audio Vocabulary;Standard;Sentence;back",
+    "gender-highlighting;all;Migaku German Audio Sentence;Standard;Target Word;back",
+    "gender-highlighting;all;Migaku German Audio Sentence;Standard;Definitions;back",
+    "gender-highlighting;all;Migaku German Audio Sentence;Standard;Sentence;back"
+  ],
+  "lastId": false,
+  "displayAgain": true
+}
