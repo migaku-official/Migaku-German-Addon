@@ -12,7 +12,7 @@
 </p>
 
 
-> An Anki add-on that makes it easier to edit cards while reviewing.
+> An Anki add-on that makes it study the German language using Anki.
 
 ### Table of Contents
 
